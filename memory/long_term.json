@@ -1,0 +1,23 @@
+{
+  "identity": {},
+  "preferences": {
+    "speaking_style": {
+      "value": "normal_german",
+      "updated": "2026-10-01"
+    },
+    "save_mode": {
+      "value": "always_remember_discussions",
+      "updated": "2026-10-01"
+    }
+  },
+  "projects": {},
+  "relationships": {},
+  "wishes": {},
+  "notes": {
+    "gespraechsnotizen_01_10_2026": {
+      "value": "Deutsch und Englisch verwendet, Nachrichtenzusammenfassung angefordert, Kalenderzugriff diskutiert, Erinnerung gesetzt.",
+      "updated": "2026-10-01"
+    }
+  },
+  "sessions": []
+}
